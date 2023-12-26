@@ -1,0 +1,31 @@
+What is Emmet?
+Difference between a Library and Framework?
+What is CDN? Why do we use it?
+Why is React known as React?
+What is crossorigin in script tag?
+What is difference between React and ReactDOM?
+What is difference between react.development.js and react.production.js files via CDN?
+What is async and defer?
+1>In the world of web development, "Emmet" is a popular tool that helps programmers write code faster and more efficiently. It uses abbreviations and symbols to generate entire sections of code with just a few keystroke
+2>Library:
+
+It's like a toolbox filled with specific tools for different tasks.
+You choose the tools you need and use them when you want.
+Examples: Hammer for pounding nails, saw for cutting wood.
+In coding: jQuery for animations, React for building user interfaces.
+Framework:
+
+It's like a pre-built house structure with rooms, walls, and a foundation.
+You move in and decorate, but the overall structure is already there.
+It tells you where to put things and how to connect them.
+Examples: Angular, Vue, Spring for web applications.
+
+3> A CDN, or Content Delivery Network, is a network of servers spread across the globe. They store copies of website content (like images, videos, and scripts) on servers closer to users, instead of just on the website's original server.
+why > 1 Faster loading times:
+2> Improved reliability
+3>Enhanced security:
+4> cost saving
+
+4> React is a JavaScript library for building user interfaces. It was developed by Facebook, and the name “React” was chosen because it is meant to help developers build user interfaces that are fast and responsive, or “reactive.” The library was designed to “react” to changes in data.
+
+5> 
